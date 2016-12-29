@@ -45,3 +45,8 @@
 	* Disadvantages: input username and password every time.
 * SSH address:
 	*  git remote add origin git@github.com:***scotthuang1989/pythonstudy***.git
+
+
+
+## Reference material
+[廖雪峰git !](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013744142037508cf42e51debf49668810645e02887691000)
