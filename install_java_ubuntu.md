@@ -25,3 +25,6 @@
  ```
 sudo update-alternatives --config javac
 ```
+
+* set JAVA_HOME, example
+`JAVA_HOME="/usr/lib/jvm/java-8-oracle"`
