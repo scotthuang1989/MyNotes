@@ -1,0 +1,8 @@
+[Unit]
+Description=myboot service
+
+[Service]
+ExecStart=/etc/init.d/myscript.sh
+
+[Install]
+WantedBy=multi-user.target
